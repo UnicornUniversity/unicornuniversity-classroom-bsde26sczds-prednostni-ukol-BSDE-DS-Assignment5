@@ -1,7 +1,7 @@
 **Toto je základní kód k přednostnímu odevzdání úkolu 5 z BSDE (Základy softwarového vývoje) pro distanční studium v češtině.**
 
-Zadání úkolu 5 je [zde](https://uuapp.plus4u.net/uu-managementkit-maing02/38744216cb324edca986789798259ba9/document?oid=67a9e77b1cb9350216de430d&pageOid=67a9e784c7d8a680ccbb513d).
-To obsahuje ale i úkol 3, zadání [zde](https://uuapp.plus4u.net/uu-managementkit-maing02/38744216cb324edca986789798259ba9/document?oid=67a9e66b1cb9350216de3144&pageOid=67a9e6731cb9350216de31df).
+Zadání úkolu 5 je [zde](https://github.com/UnicornUniversity/BSDE-DS-Assignment5/blob/master/BSDE%202025%20Summer%20Zad%C3%A1n%C3%AD%20dom%C3%A1c%C3%AD%20%C3%BAkol%20_%20homework%20assignment%2005.pdf).
+To obsahuje ale i úkol 3, zadání [zde](https://github.com/UnicornUniversity/BSDE-DS-Assignment5/blob/master/BSDE%202025%20Summer%20Zad%C3%A1n%C3%AD%20dom%C3%A1c%C3%AD%20%C3%BAkol%20_%20homework%20assignment%2003.pdf).
 
 **Pro odevzdání je nutné úkol odevzdat**:
 
@@ -22,7 +22,7 @@ To obsahuje ale i úkol 3, zadání [zde](https://uuapp.plus4u.net/uu-management
  
     
 - Prosím, dejte si pozor na to, že je nutné přesně dodržet strukturu kódu ze zadání.
-- Nutnou součástí kódu jsou komentáře typu JSP. Testy vám je vynutí.
+- Nutnou součástí kódu jsou komentáře typu JSDoc. Testy vám je vynutí.
 - Pokud máte problém vyřešit testy ke generování osob, zkuste nejprve vyřešit úkol 3.
 - Je nutné **generovat náhodné datum tak, aby generovaný věk osob byl ve zvoleném intervalu**. Testy kontrolují přesnost až na ms, naštěstí vám ovšem nechávám přibližně měsíc jako polovenou odchylku :)
 - Věk v intervalu zde bereme přísně matematicky. Pro věk Z z intervalu <X, Y> platí:X <= Z <= Y. Všechna čísla jsou reálná. **Tzn. pro interval věku <18, 60> osoby ve věku 17 let a 11 měsíců, i 60 let a 1 měsíc jsou mimo interval.**
